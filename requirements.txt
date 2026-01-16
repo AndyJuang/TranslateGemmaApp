@@ -1,0 +1,9 @@
+mlx-lm
+faster-whisper
+PyQt6
+pyaudio
+huggingface-hub
+pynput
+transformers
+torch
+psutil
